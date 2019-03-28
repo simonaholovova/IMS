@@ -32,8 +32,7 @@ Required programs:
 
 Optional
   - Install [MSI Afterburner](https://www.msi.com/page/afterburner) with RiverTune server.
-  - 
-  - 
+
 
 ## Using supplied script
 
